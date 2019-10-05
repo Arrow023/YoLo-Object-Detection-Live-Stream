@@ -1,6 +1,6 @@
 # YoLo-Object-Detection-Live-Stream 
 This directory contains the files that can detect objects using live feed(real-time). 
-# Modules Required 
+# Modules Required
     pip install opencv-python
     pip install numpy
 # Link to download the weights
