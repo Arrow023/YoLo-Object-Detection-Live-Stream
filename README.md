@@ -2,7 +2,7 @@
 This directory contains the files that can detect objects using live feed(real-time). 
 # Modules Required
     pip install opencv-python
-    pip install numpy
+    pip install numpy 
 # Link to download the weights
     https://pjreddie.com/media/files/yolov3-tiny.weights
 # Link to download the configure file
